@@ -1,1 +1,2 @@
-# Passing-Arguments-and-Functions
+# collisionAlgorithm
+Algorithm to detect collision between two objects
